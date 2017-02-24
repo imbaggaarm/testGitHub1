@@ -12,6 +12,7 @@
 		43FDD6B91DF06A7100C3538D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 43FDD6B71DF06A7100C3538D /* Main.storyboard */; };
 		43FDD6BB1DF06A7100C3538D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 43FDD6BA1DF06A7100C3538D /* Assets.xcassets */; };
 		43FDD6BE1DF06A7100C3538D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 43FDD6BC1DF06A7100C3538D /* LaunchScreen.storyboard */; };
+		43FDD6C61DF06A9100C3538D /* danhsach.php in Resources */ = {isa = PBXBuildFile; fileRef = 43FDD6C51DF06A9100C3538D /* danhsach.php */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		43FDD6BA1DF06A7100C3538D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		43FDD6BD1DF06A7100C3538D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		43FDD6BF1DF06A7100C3538D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		43FDD6C51DF06A9100C3538D /* danhsach.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = danhsach.php; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				43FDD6B31DF06A7100C3538D /* AppDelegate.swift */,
 				43FDD6B51DF06A7100C3538D /* ViewController.swift */,
+				43FDD6C51DF06A9100C3538D /* danhsach.php */,
 				43FDD6B71DF06A7100C3538D /* Main.storyboard */,
 				43FDD6BA1DF06A7100C3538D /* Assets.xcassets */,
 				43FDD6BC1DF06A7100C3538D /* LaunchScreen.storyboard */,
@@ -123,6 +126,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				43FDD6C61DF06A9100C3538D /* danhsach.php in Resources */,
 				43FDD6BE1DF06A7100C3538D /* LaunchScreen.storyboard in Resources */,
 				43FDD6BB1DF06A7100C3538D /* Assets.xcassets in Resources */,
 				43FDD6B91DF06A7100C3538D /* Main.storyboard in Resources */,
